@@ -5,3 +5,5 @@ test_4 = 4
 
 test_5_my = 6
 test_7 = 7
+
+test_my_test = 8
